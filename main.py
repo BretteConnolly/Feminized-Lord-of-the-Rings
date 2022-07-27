@@ -1,4 +1,4 @@
-list_of_words = ['he', 'she', 'He', 'She','man', 'woman', 'son', 'daughter', 'father', 'mother', 'brother', 'sister', 'boy', 'girl', 'lad', 'lass', 'sir', 'madam', 'Mr.', 'Miss', 'him', 'her', 'his', 'her', 'fellow', 'sister', 'sistership', 'sisterhood', 'men', 'women', 'lady', 'lord']
+list_of_words = [' he ', ' she ', 'He ', 'She ',' man ', ' woman ', 'son', 'daughter', 'father', 'mother', 'brother', 'sister', 'boy', 'girl', 'lad', 'lass', 'sir', 'madam', 'Mr.', 'Miss', ' him ', ' her ', ' his ', ' her ', 'fellow', 'sister', 'sistership', 'sisterhood', ' men ', ' women ', 'lady', 'lord']
 
 book = open("text_data.txt")
 book_contents = book.read()
