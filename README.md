@@ -13,6 +13,6 @@ What this program entails:
 -- Complete transcripts of "The Hobbit," "The Fellowship of the Ring," "The Two Towers," and "The Return of the King". 
 -- "The Hobbit" source: https://archive.org/stream/dli.ernet.474126/474126-The%20Hobbit%281937%29_djvu.txt
 -- "The Fellowship of the Ring," "The Two Towers," and "The Return of the King" source: https://ae-lib.org.ua/texts-c/tolkien__the_lord_of_the_rings_1__en.htm#1-01
--- 51 pairs of masculine words and their feminine equivalents
+-- 76 pairs of masculine word-and-punctuation combinations and their feminine equivalents
 -- A newly generated text file with the feminine words in place of the masculine ones
 -- Replace method recursively calls itself to write multiple replacements onto the same text file
